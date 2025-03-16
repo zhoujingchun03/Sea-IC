@@ -5,7 +5,7 @@ In process, will update soon.
 
 ## Recently Work
 
-1. [TPAMI2025]
+1. [TPAMI2025] [Spatial Residual for Underwater Object Detection]([https://github.com/ultralytics/ultralytics](https://github.com/Hikari0608/Underwater-object-detection/tree/main/Spatial-Residual))
 
 2. [IJCV2024]
   
